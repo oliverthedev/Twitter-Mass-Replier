@@ -7,17 +7,28 @@ Replies with a large number of mentions on the specified Tweet for Easy Marketin
 ## Info
 - Only requires Proxies & Cookies — can be obtained for < $30
 - Scrape usernames from specified Twitter profile's followers list
+- HTTP, SOCKS4 & SOCKS5 proxies supported
+- Filter users by verification, followers & keywords in biography
+- Threads Customisable
 - Clean UI, software easy-to-use
 
 ## Purchase
-Price: $1,000<br>
+Price: $900<br>
 Payment Methods: BTC & ETH
 
-Contact https://t.me/oliverogu to Purchase.
+https://t.me/twittermassreplier
+
+## Terms of Service
+- All sales are final
+- Project may be discontinued at any time
+- Developer is not held accountable for any user actions
+- No software sharing with others
 
 ## Tags (ignore)
 - twitter mass mention bot
 - mass mentions
 - mass replier
 - replyer
-- advertise nft projects
+- advertiser
+- advertising bot
+- marketing bot
