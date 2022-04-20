@@ -16,7 +16,7 @@ Replies with a large number of mentions on the specified Tweet for Easy Marketin
 Price: $900<br>
 Payment Methods: BTC & ETH
 
-https://t.me/twittermassreplier
+https://t.me/replier
 
 ## Terms of Service
 - All sales are final
