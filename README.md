@@ -13,8 +13,8 @@ Replies with a large number of mentions on the specified Tweet for Easy Marketin
 - Clean UI, software easy-to-use
 
 ## Purchase
-Price: $900<br>
-Payment Methods: BTC & ETH
+Price: <strike>$600</strike> <b>$495</b><br>
+Payment Methods: BTC, ETH
 
 https://t.me/replier
 
